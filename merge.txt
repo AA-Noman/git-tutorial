@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some Text From Master
+=======
+Merge conflict will Hapen
+>>>>>>> branch1
